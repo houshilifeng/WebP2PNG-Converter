@@ -13,5 +13,5 @@ A simple command-line tool to convert `.webp` files to `.png` format using Pytho
 Run the program with the following syntax:
 
 ```bash
-python webp2png_converter.py path_to_webp_file.webp path_for_png_file.png
+python WebP2PNGConverter.py path_to_webp_file.webp path_for_png_file.png
 
